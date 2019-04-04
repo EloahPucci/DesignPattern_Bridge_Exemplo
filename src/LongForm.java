@@ -1,6 +1,6 @@
 
 
-public class LongForm extends View {
+public class LongForm extends Views {
 
 	public LongForm(RecursoDeMidia m) {
 		super(m);

@@ -1,9 +1,9 @@
 
-public abstract class View {
+public abstract class Views {
 
 	RecursoDeMidia midia;
 
-	public View(RecursoDeMidia m) {
+	public Views(RecursoDeMidia m) {
 		this.midia = m;
 	}
 

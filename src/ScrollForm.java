@@ -1,6 +1,6 @@
 
 
-public class ScrollForm extends View {
+public class ScrollForm extends Views {
 
 	public ScrollForm(RecursoDeMidia m) {
 		super(m);

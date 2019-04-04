@@ -9,7 +9,7 @@ public class Usuario {
 		sc.useLocale(Locale.ENGLISH);
 		Locale.setDefault(new Locale("en", "US"));
 		
-		View view = new LongForm(new Video());
+		Views view = new LongForm(new Video());
 		view.mostrar();
 		
 		System.out.println();
